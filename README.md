@@ -53,3 +53,23 @@ O código está estruturado em funções modulares, facilitando manutenção e e
 3. Execute o script Python:  
    ```bash
    python calculadora.py
+   ```
+4. Siga as instruções na tela:
+   
+   - Digite o primeiro número.  
+   - Digite o segundo número.  
+   - Digite a operação desejada (+, -, *, / ou o nome da operação).  
+5. Para encerrar o programa, digite N quando perguntado se deseja continuar.
+
+## Exemplo de execução
+   ```bash
+   Digite o primeiro número: 10  
+   Digite o segundo número: 5  
+   Digite a operação desejada (+, -, *, / ou nome): +  
+   Resultado da operação: 15.0  
+   Deseja continuar? (S/N): N
+   ```
+## Considerações finais
+- Este projeto é uma aplicação educativa para praticar Python.  
+- Pode ser expandido adicionando mais operações matemáticas, como potência ou raiz quadrada.  
+- Excelente para estudo de funções, loops, tratamento de erros e boas práticas de programação modular.
